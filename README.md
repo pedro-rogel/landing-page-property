@@ -1,8 +1,8 @@
-# **MBRAS - Landing Page Imobiliária**  
+# **Landing Page Imobiliária**  
 
 🚀 **Next.js | React.js | MongoDB Atlas**  
 
-Uma landing page dinâmica para a empresa **MBRAS**, com:  
+Uma landing page dinâmica com:  
 ✔ **Rota dinâmica** por código do imóvel.  
 ✔ **Galeria de fotos** interativa.  
 ✔ **Formulário de contato** (nome, telefone, e-mail).  
@@ -20,8 +20,8 @@ Uma landing page dinâmica para a empresa **MBRAS**, com:
 
 ### **1. Clone o repositório**  
 ```bash
-git clone https://github.com/seu-usuario/mbras-landing.git
-cd mbras-landing
+git clone https://github.com/seu-usuario/landing-page-property.git
+cd landing-page-property
 ```
 
 ### **2. Instale as dependências**  
@@ -29,18 +29,8 @@ cd mbras-landing
 npm install
 # ou
 yarn install
-```
-
-### **3. Configure as variáveis de ambiente**  
-Crie um arquivo `.env.local` na raiz do projeto e adicione:  
-<strong>Importante</strong>! ==>
-Como é para apresentação da aplicação, não há risco de compartilhar as variáveis de ambiente
-```env
-DB_CONNECTION_STRING=mongodb+srv://pedrorogel3:QFUEjHBK4paBW22N@frontend-challenge.gpwo1bd.mongodb.net/?retryWrites=true&w=majority&appName=frontend-challenge
-```
- 
-
-### **4. Inicie o servidor**  
+``` 
+### **3. Inicie o servidor**  
 ```bash
 npm run dev
 # ou
