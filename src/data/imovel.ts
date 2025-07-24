@@ -21,7 +21,7 @@ export const propertyImages = [
   "https://img.mbras.com.br/property_photos/MB18004/1507a78d-2073-45b3-9c6e-06ac77fd7d2d.jpeg?tr=f-auto,q-auto,pr=true,w=1200",
   "https://img.mbras.com.br/property_photos/MB18004/69f25d37-4099-49d2-937d-99b4b52f55ab.jpeg?tr=f-auto,q-auto,pr=true,w=1200",
   "https://img.mbras.com.br/property_photos/MB4919/654079ec-288c-442d-a08a-27c5a58c7344.jpeg?tr=f-auto,q-auto,pr=true,w=1200",
- 
+
   "https://img.mbras.com.br/property_photos/MB16912/0329a7fc-71f0-4a45-a3d2-71cc25bf3ede.jpeg?tr=f-auto,q-auto,pr=true,w=1200",
   "https://img.mbras.com.br/property_photos/MB16655/65e5ca80-e5a7-4217-ba37-11f7ebf61644.jpeg?tr=f-auto,q-auto,pr=true,w=1200",
   "https://img.mbras.com.br/property_photos/MB16912/e6e181e0-c799-41a5-9c28-4a055cd88516.jpeg?tr=f-auto,q-auto,pr=true,w=1200",
